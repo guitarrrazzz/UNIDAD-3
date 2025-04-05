@@ -1,0 +1,16 @@
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA_DEL_TRIANGULO.Form1.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA DEL TRIANGULO.csproj.GenerateResource.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA DEL TRIANGULO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA DEL TRIANGULO.AssemblyInfoInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA DEL TRIANGULO.AssemblyInfo.cs
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA DEL TRIANGULO.csproj.CoreCompileInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\bin\Debug\net8.0-windows\AREA DEL TRIANGULO.exe
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\bin\Debug\net8.0-windows\AREA DEL TRIANGULO.deps.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\bin\Debug\net8.0-windows\AREA DEL TRIANGULO.runtimeconfig.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\bin\Debug\net8.0-windows\AREA DEL TRIANGULO.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\bin\Debug\net8.0-windows\AREA DEL TRIANGULO.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA DEL TRIANGULO.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\refint\AREA DEL TRIANGULO.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA DEL TRIANGULO.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\AREA DEL TRIANGULO.genruntimeconfig.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\AREA DEL TRIANGULO\obj\Debug\net8.0-windows\ref\AREA DEL TRIANGULO.dll
