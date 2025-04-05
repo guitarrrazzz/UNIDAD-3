@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "INIVIERTE DATOS/1.0.0": {
+        "runtime": {
+          "INIVIERTE DATOS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "INIVIERTE DATOS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

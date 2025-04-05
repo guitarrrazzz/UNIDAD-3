@@ -1,0 +1,16 @@
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\bin\Debug\net8.0-windows\INIVIERTE DATOS.exe
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\bin\Debug\net8.0-windows\INIVIERTE DATOS.deps.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\bin\Debug\net8.0-windows\INIVIERTE DATOS.runtimeconfig.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\bin\Debug\net8.0-windows\INIVIERTE DATOS.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\bin\Debug\net8.0-windows\INIVIERTE DATOS.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE_DATOS.Form1.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE DATOS.csproj.GenerateResource.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE DATOS.AssemblyInfoInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE DATOS.AssemblyInfo.cs
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE DATOS.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\refint\INIVIERTE DATOS.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE DATOS.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\INIVIERTE DATOS.genruntimeconfig.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\INIVIERTE DATOS\INIVIERTE DATOS\obj\Debug\net8.0-windows\ref\INIVIERTE DATOS.dll

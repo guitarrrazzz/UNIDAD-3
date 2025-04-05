@@ -1,0 +1,17 @@
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\bin\Debug\net8.0-windows\GIF ANIMADO1.exe
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\bin\Debug\net8.0-windows\GIF ANIMADO1.deps.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\bin\Debug\net8.0-windows\GIF ANIMADO1.runtimeconfig.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\bin\Debug\net8.0-windows\GIF ANIMADO1.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\bin\Debug\net8.0-windows\GIF ANIMADO1.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF_ANIMADO1.Form1.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF_ANIMADO1.Properties.Resources.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF ANIMADO1.csproj.GenerateResource.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF ANIMADO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF ANIMADO1.AssemblyInfoInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF ANIMADO1.AssemblyInfo.cs
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF ANIMADO1.csproj.CoreCompileInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF ANIMADO1.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\refint\GIF ANIMADO1.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF ANIMADO1.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\GIF ANIMADO1.genruntimeconfig.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\GIF ANIMADO1\GIF ANIMADO1\obj\Debug\net8.0-windows\ref\GIF ANIMADO1.dll
