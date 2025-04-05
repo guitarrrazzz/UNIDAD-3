@@ -1,0 +1,16 @@
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\bin\Debug\net8.0-windows\PRACTICA 10.exe
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\bin\Debug\net8.0-windows\PRACTICA 10.deps.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\bin\Debug\net8.0-windows\PRACTICA 10.runtimeconfig.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\bin\Debug\net8.0-windows\PRACTICA 10.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\bin\Debug\net8.0-windows\PRACTICA 10.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA_10.Form1.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA 10.csproj.GenerateResource.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA 10.AssemblyInfoInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA 10.AssemblyInfo.cs
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA 10.csproj.CoreCompileInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA 10.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\refint\PRACTICA 10.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA 10.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\PRACTICA 10.genruntimeconfig.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 10\obj\Debug\net8.0-windows\ref\PRACTICA 10.dll
