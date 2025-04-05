@@ -1,0 +1,16 @@
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\bin\Debug\net8.0-windows\practica 14 factorial.exe
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\bin\Debug\net8.0-windows\practica 14 factorial.deps.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\bin\Debug\net8.0-windows\practica 14 factorial.runtimeconfig.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\bin\Debug\net8.0-windows\practica 14 factorial.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\bin\Debug\net8.0-windows\practica 14 factorial.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica_14_factorial.Form1.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica 14 factorial.csproj.GenerateResource.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica 14 factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica 14 factorial.AssemblyInfoInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica 14 factorial.AssemblyInfo.cs
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica 14 factorial.csproj.CoreCompileInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica 14 factorial.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\refint\practica 14 factorial.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica 14 factorial.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\practica 14 factorial.genruntimeconfig.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\practica 14 factorial\obj\Debug\net8.0-windows\ref\practica 14 factorial.dll
