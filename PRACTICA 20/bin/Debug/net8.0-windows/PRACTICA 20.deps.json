@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRACTICA 20/1.0.0": {
+        "runtime": {
+          "PRACTICA 20.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRACTICA 20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
