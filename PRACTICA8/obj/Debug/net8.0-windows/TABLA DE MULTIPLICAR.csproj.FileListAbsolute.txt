@@ -1,0 +1,16 @@
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\bin\Debug\net8.0-windows\TABLA DE MULTIPLICAR.exe
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\bin\Debug\net8.0-windows\TABLA DE MULTIPLICAR.deps.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\bin\Debug\net8.0-windows\TABLA DE MULTIPLICAR.runtimeconfig.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\bin\Debug\net8.0-windows\TABLA DE MULTIPLICAR.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\bin\Debug\net8.0-windows\TABLA DE MULTIPLICAR.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA_DE_MULTIPLICAR.Form1.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA DE MULTIPLICAR.csproj.GenerateResource.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA DE MULTIPLICAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA DE MULTIPLICAR.AssemblyInfoInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA DE MULTIPLICAR.AssemblyInfo.cs
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA DE MULTIPLICAR.csproj.CoreCompileInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA DE MULTIPLICAR.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\refint\TABLA DE MULTIPLICAR.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA DE MULTIPLICAR.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\TABLA DE MULTIPLICAR.genruntimeconfig.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\TABLA DE MULTIPLICAR\obj\Debug\net8.0-windows\ref\TABLA DE MULTIPLICAR.dll
