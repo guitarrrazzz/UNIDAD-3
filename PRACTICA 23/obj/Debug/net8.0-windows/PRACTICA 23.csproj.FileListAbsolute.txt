@@ -1,0 +1,16 @@
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA_23.Form1.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA 23.csproj.GenerateResource.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA 23.AssemblyInfoInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA 23.AssemblyInfo.cs
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA 23.csproj.CoreCompileInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\bin\Debug\net8.0-windows\PRACTICA 23.exe
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\bin\Debug\net8.0-windows\PRACTICA 23.deps.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\bin\Debug\net8.0-windows\PRACTICA 23.runtimeconfig.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\bin\Debug\net8.0-windows\PRACTICA 23.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\bin\Debug\net8.0-windows\PRACTICA 23.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA 23.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\refint\PRACTICA 23.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA 23.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\PRACTICA 23.genruntimeconfig.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 23\obj\Debug\net8.0-windows\ref\PRACTICA 23.dll
