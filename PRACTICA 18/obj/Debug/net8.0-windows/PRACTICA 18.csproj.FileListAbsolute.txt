@@ -1,0 +1,16 @@
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\bin\Debug\net8.0-windows\PRACTICA 18.exe
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\bin\Debug\net8.0-windows\PRACTICA 18.deps.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\bin\Debug\net8.0-windows\PRACTICA 18.runtimeconfig.json
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\bin\Debug\net8.0-windows\PRACTICA 18.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\bin\Debug\net8.0-windows\PRACTICA 18.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA_18.Form1.resources
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA 18.csproj.GenerateResource.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA 18.AssemblyInfoInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA 18.AssemblyInfo.cs
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA 18.csproj.CoreCompileInputs.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA 18.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\refint\PRACTICA 18.dll
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA 18.pdb
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\PRACTICA 18.genruntimeconfig.cache
+C:\Users\Laptop DELL\Downloads\UNIDAD 3 PROG\PRACTICA 18\obj\Debug\net8.0-windows\ref\PRACTICA 18.dll
